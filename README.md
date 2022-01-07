@@ -1,5 +1,5 @@
 
-<div><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YiHanSeul%20&⌨fontSize=90" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YiHanSeul%20&⌨fontSize=90" /></div>
 <h1 align=center>✨Skill✨</h1>
 
 <div align=center>
