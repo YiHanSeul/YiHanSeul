@@ -3,4 +3,4 @@
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/YiHanSeul/momentum)
 
-[![JS](https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/YiHanSeul/youtube)
+[![JS](https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node%20.js&logoColor=white)](https://github.com/YiHanSeul/youtube)
