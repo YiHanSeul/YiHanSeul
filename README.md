@@ -21,3 +21,5 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiHanSeul&show_icons=true&theme=radical)
+
+[notion ](https://www.notion.so/yihanseul/Profile-f342f2db1efb4bba802e7f231cd7699b)
